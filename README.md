@@ -1,28 +1,27 @@
-# AB-Testing-python-analysis
- A/B Testing of two marketing campaigns using Python and real-world data from Kaggle.
-# 🧪 A/B Testing in Marketing using Python
+
+# A/B Testing in Marketing using Python
 
 This project analyzes two real-world marketing campaigns using A/B testing methodology and visualizes user behavior across the conversion funnel.
 
-## 📊 Objective
+## Objective
 To determine which campaign—Control or Test—results in higher conversions with less ad spend.
 
-## 🛠 Tools Used
+##  Tools Used
 - Python (Pandas, Plotly)
 - Jupyter Notebook
 - Data cleaning & merging
 - Funnel visualization
 
-## 📈 Key Insights
+##  Key Insights
 - Control campaign had better engagement and more total purchases
 - Test campaign showed higher conversion efficiency
 - Recommendation: Use Control for reach, Test for targeted sales
 
-## 💡 Outcome
+##  Outcome
 - Built a full A/B testing pipeline
 - Derived business insights and strategy recommendations
 
-## 📁 Files Included
+## Files Included
 - `ab_testing.ipynb`: Python notebook with full analysis
 - `/dataset/`: Raw CSVs for Control and Test campaigns
 - `/visuals/`: Key plots and visual summaries
