@@ -30,7 +30,7 @@ To determine which campaign—Control or Test—results in higher conversions wi
 **Preet Kaur**  
 📧 preetkaurmarwah7@gmail.com  
 📌 Data & Product Analytics Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/preet-kaur-marwah/) *(Update your link)*
+🔗 [LinkedIn](https://www.linkedin.com/in/preet-kaur-marwah/)
 
 ---
 
